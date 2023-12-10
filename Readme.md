@@ -1,6 +1,4 @@
-Sure, I'll update the README documentation to include your package name from the `composer.json` file. Here's the revised section:
 
----
 
 # ENEM Exam Web Crawler
 
