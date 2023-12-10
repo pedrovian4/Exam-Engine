@@ -7,6 +7,7 @@
             "Petcha\\ExamEngine\\": "src/"
         }
     },
+    "license": ["MIT"],
     "authors": [
         {
             "name": "Petcha",
