@@ -1,0 +1,28 @@
+{
+    "name": "petcha/exam-engine",
+    "description": "Exam engine is Exam Test Generator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Petcha\\ExamEngine\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Petcha",
+            "email": "pedrovianaasking@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "smalot/pdfparser": "dev-master",
+        "php-ai/php-ml": "dev-master",
+        "guzzlehttp/guzzle": "7.9.x-dev",
+        "ext-dom": "*",
+        "fabpot/goutte": "dev-master",
+        "symfony/dom-crawler": "6.4.x-dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10.5.x-dev"
+    }
+}
