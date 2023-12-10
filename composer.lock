@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "62ef9728e6a3b662cc403f5913e81445",
+    "content-hash": "5419c31c36f37fe891539abf2365602c",
     "packages": [
         {
             "name": "fabpot/goutte",
@@ -3560,9 +3560,7 @@
     "stability-flags": {
         "smalot/pdfparser": 20,
         "php-ai/php-ml": 20,
-        "guzzlehttp/guzzle": 20,
         "fabpot/goutte": 20,
-        "symfony/dom-crawler": 20,
         "phpunit/phpunit": 20
     },
     "prefer-stable": false,
